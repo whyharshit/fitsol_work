@@ -1,0 +1,996 @@
+{
+  "metadata": {
+    "company_id": "HDFC_ASSET_MANAGEMENT_COMPANY_LTD",
+    "company_name": "HDFC Asset Management Company Ltd",
+    "industry": "Not Specified",
+    "tier": "Listed Company",
+    "year": "2024-25",
+    "source_type": "BRSR",
+    "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c252a205-906a-4fb7-889b-42c65eae6e60.pdf",
+    "document_title": "ESG Report FY 2024-25",
+    "extraction_method": "multimodal_llm",
+    "last_crawled": "2026-01-26"
+  },
+  "data_points": [
+    {
+      "data_point": "NOx (Nitrogen Oxides)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Particulate Matter (PM-10)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Particulate Matter (PM-2.5)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "SOx (Sulfur Oxides)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Climate Risk Assessment",
+      "esg_pillar": "E",
+      "category": "Risk",
+      "value": "Yes, the company identifies and manages ESG risks, including climate-related ones, as part of its responsible investing strategy and stewardship activities.",
+      "unit": "Text",
+      "evidence_snippet": "Yes, the company identifies and manages ESG risks, including climate-related ones, as part of its responsible investing strategy and stewardship activities.",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "CPCB/SPCB Compliance",
+      "esg_pillar": "E",
+      "category": "Compliance",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Emissions Baseline Year",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Emissions Intensity (Physical)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": 1.57,
+      "unit": "tCO2e/Employee",
+      "evidence_snippet": "1.57 tCO2e/Employee",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Emissions Intensity (Revenue)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": 0.99,
+      "unit": "tCO2e/INR in Cr.",
+      "evidence_snippet": "0.99 tCO2e/INR in Cr.",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Emissions Reduction Target",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Independent Energy Assessment",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Energy Consumed (A+B+C+D+E+F)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 21190,
+      "unit": "GJ",
+      "evidence_snippet": "21,190 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Energy Intensity per Rupee of Turnover",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 6.06,
+      "unit": "GJ/INR in Cr.",
+      "evidence_snippet": "6.06 GJ/INR in Cr.",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Energy Intensity (Physical Output)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 9.6,
+      "unit": "GJ/employee",
+      "evidence_snippet": "9.60 GJ/employee",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Energy Intensity (PPP Adjusted)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 125.16,
+      "unit": "GJ/INR in Cr.",
+      "evidence_snippet": "125.16 GJ/INR in Cr.",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Env Fines/Penalties",
+      "esg_pillar": "E",
+      "category": "Compliance",
+      "value": 0,
+      "unit": "",
+      "evidence_snippet": "0",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Env Policy Published",
+      "esg_pillar": "E",
+      "category": "Policy",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Green CapEx %",
+      "esg_pillar": "E",
+      "category": "Investment",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Green R&D %",
+      "esg_pillar": "E",
+      "category": "Investment",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Hazardous Waste",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "ISO 14001 Certified",
+      "esg_pillar": "E",
+      "category": "Policy",
+      "value": "Yes, for data centers",
+      "unit": "Text",
+      "evidence_snippet": "Yes, for data centers",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "ISO 50001 Certified",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Incineration Volume",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0.1,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0.10 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Landfill Volume",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0.05,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0.05 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Net Zero Commitment",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Net Zero Target Year",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Non-Renewable Electricity Consumption (D)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 14968,
+      "unit": "GJ",
+      "evidence_snippet": "14,968 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Non-Renewable Fuel Consumption (E)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 6222,
+      "unit": "GJ",
+      "evidence_snippet": "6,222 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Non-Renewable Energy from Other Sources (F)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "GJ",
+      "evidence_snippet": "0 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Non-Renewable Energy (D+E+F)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 21190,
+      "unit": "GJ",
+      "evidence_snippet": "21,190 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Onsite Renewable Capacity",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Plastic Usage",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Product Carbon Footprint",
+      "esg_pillar": "E",
+      "category": "Product",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Recycled Material Content",
+      "esg_pillar": "E",
+      "category": "Materials",
+      "value": 0,
+      "unit": "%",
+      "evidence_snippet": "0%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Renewable Electricity %",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "%",
+      "evidence_snippet": "0%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Renewable Electricity Consumption (A)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "GJ",
+      "evidence_snippet": "0 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Renewable Fuel Consumption (B)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "GJ",
+      "evidence_snippet": "0 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Renewable Energy from Other Sources (C)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "GJ",
+      "evidence_snippet": "0 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Renewable Energy (A+B+C)",
+      "esg_pillar": "E",
+      "category": "Energy",
+      "value": 0,
+      "unit": "GJ",
+      "evidence_snippet": "0 GJ",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "SBTi Status",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": "Not a member",
+      "unit": "Text",
+      "evidence_snippet": "Not a member",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Scope 1 emissions (absolute)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": 441,
+      "unit": "tCO2e",
+      "evidence_snippet": "441 tCO2e",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Scope 2 emissions (LB & MB)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": 3023,
+      "unit": "tCO2e",
+      "evidence_snippet": "3,023 tCO2e",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Scope 3 Cat 11: Use of Sold Products",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 14: Franchises",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 1: Purchased Goods",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 3: Fuel/Energy Related",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 5: Waste Generated",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 6: Business Travel",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 7: Employee Commuting",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 Cat 8: Upstream Leased Assets",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Scope 3 emissions (total)",
+      "esg_pillar": "E",
+      "category": "Emissions",
+      "value": 9025,
+      "unit": "tCO2e",
+      "evidence_snippet": "9,025 tCO2e",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Supplier Env Requirements",
+      "esg_pillar": "E",
+      "category": "Supply Chain",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "TCFD Alignment",
+      "esg_pillar": "E",
+      "category": "Risk",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Transition Plan",
+      "esg_pillar": "E",
+      "category": "Strategy",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Battery Waste (E)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 4.76,
+      "unit": "metric tonnes",
+      "evidence_snippet": "4.76 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Bio-Medical Waste (C)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Construction & Demolition Waste (D)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "E-Waste (B)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 1.1,
+      "unit": "metric tonnes",
+      "evidence_snippet": "1.10 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Other Hazardous Waste (G)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Other Non-Hazardous Waste (H)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Plastic Waste (A)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Radioactive Waste (F)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0,
+      "unit": "metric tonnes",
+      "evidence_snippet": "0 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Waste Generated (A+B+C+D+E+F+G+H)",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 5.86,
+      "unit": "metric tonnes",
+      "evidence_snippet": "5.86 metric tonnes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Waste Intensity per Rupee of Turnover",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 0.0017,
+      "unit": "metric tonnes/INR in crores",
+      "evidence_snippet": "0.0017 metric tonnes/INR in crores",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Waste Recycled %",
+      "esg_pillar": "E",
+      "category": "Waste",
+      "value": 97.6,
+      "unit": "%",
+      "evidence_snippet": "97.6%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Net Water Consumption",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": 22305,
+      "unit": "kilolitres",
+      "evidence_snippet": "22,305 kilolitres",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Water Recycled %",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Water Stressed Locations",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": "Not disclosed",
+      "unit": "Text",
+      "evidence_snippet": "Not disclosed",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Water Withdrawal",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": 22305,
+      "unit": "kilolitres",
+      "evidence_snippet": "22,305 kilolitres",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Effluent Discharge Volume",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": 17844,
+      "unit": "kilolitres",
+      "evidence_snippet": "17,844 kilolitres",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "ZLD Status",
+      "esg_pillar": "E",
+      "category": "Water",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "CDP Score",
+      "esg_pillar": "External",
+      "category": "Ratings",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "DJSI Inclusion",
+      "esg_pillar": "External",
+      "category": "Ratings",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "EcoVadis Medal",
+      "esg_pillar": "External",
+      "category": "Ratings",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "MSCI Rating",
+      "esg_pillar": "External",
+      "category": "Ratings",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "PAT Scheme",
+      "esg_pillar": "External",
+      "category": "Regulatory",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "PLI Auto Participation",
+      "esg_pillar": "External",
+      "category": "Regulatory",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Sustainalytics Score",
+      "esg_pillar": "External",
+      "category": "Ratings",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "UNGC Participant",
+      "esg_pillar": "External",
+      "category": "Commitments",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Anti-Corruption Policy",
+      "esg_pillar": "G",
+      "category": "Ethics",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Board Independence %",
+      "esg_pillar": "G",
+      "category": "Board",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "ESG Linked Pay",
+      "esg_pillar": "G",
+      "category": "Remuneration",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "ESG Oversight Committee",
+      "esg_pillar": "G",
+      "category": "Board",
+      "value": "Yes, ESG and CSR Committee of the Board",
+      "unit": "Text",
+      "evidence_snippet": "Yes, ESG and CSR Committee of the Board",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Legal Cases",
+      "esg_pillar": "G",
+      "category": "Compliance",
+      "value": 0,
+      "unit": "",
+      "evidence_snippet": "0",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Whistleblower Mechanism",
+      "esg_pillar": "G",
+      "category": "Ethics",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Attrition (Employees)",
+      "esg_pillar": "S",
+      "category": "Retention",
+      "value": 12,
+      "unit": "%",
+      "evidence_snippet": "12%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Attrition (Workers)",
+      "esg_pillar": "S",
+      "category": "Retention",
+      "value": "Not Applicable",
+      "unit": "Text",
+      "evidence_snippet": "Not Applicable",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "CSR Spend",
+      "esg_pillar": "S",
+      "category": "Community",
+      "value": null,
+      "unit": null,
+      "evidence_snippet": "null",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.0
+    },
+    {
+      "data_point": "Gender Diversity (Board)",
+      "esg_pillar": "S",
+      "category": "Diversity",
+      "value": 22.22,
+      "unit": "%",
+      "evidence_snippet": "22.22%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Gender Diversity (Perm Emp)",
+      "esg_pillar": "S",
+      "category": "Diversity",
+      "value": 28,
+      "unit": "%",
+      "evidence_snippet": "28%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Gender Diversity (Total Emp)",
+      "esg_pillar": "S",
+      "category": "Diversity",
+      "value": 33,
+      "unit": "%",
+      "evidence_snippet": "33%",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Human Rights Policy",
+      "esg_pillar": "S",
+      "category": "Human Rights",
+      "value": "Yes",
+      "unit": "Text",
+      "evidence_snippet": "Yes",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "ISO 45001 Certified",
+      "esg_pillar": "S",
+      "category": "Safety",
+      "value": "No",
+      "unit": "Text",
+      "evidence_snippet": "No",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "LTIFR (Employees)",
+      "esg_pillar": "S",
+      "category": "Safety",
+      "value": 0.96,
+      "unit": "",
+      "evidence_snippet": "0.96",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "LTIFR (Workers)",
+      "esg_pillar": "S",
+      "category": "Safety",
+      "value": "Not Applicable",
+      "unit": "Text",
+      "evidence_snippet": "Not Applicable",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Supplier Social Audits",
+      "esg_pillar": "S",
+      "category": "Supply Chain",
+      "value": "Yes, for compliance with statutory obligations",
+      "unit": "Text",
+      "evidence_snippet": "Yes, for compliance with statutory obligations",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Total Workforce",
+      "esg_pillar": "S",
+      "category": "Workforce",
+      "value": 2208,
+      "unit": "",
+      "evidence_snippet": "2,208",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    },
+    {
+      "data_point": "Training Hours",
+      "esg_pillar": "S",
+      "category": "Training",
+      "value": 33.38,
+      "unit": "",
+      "evidence_snippet": "33.38",
+      "verification_level": "Self-declared",
+      "confidence_score": 0.95
+    }
+  ]
+}

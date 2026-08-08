@@ -1,0 +1,26 @@
+2026-01-27 23:21:20,272 - INFO - ============================================================
+2026-01-27 23:21:20,272 - INFO - ESG DATA UPLOAD TO GOOGLE CLOUD STORAGE
+2026-01-27 23:21:20,272 - INFO - ============================================================
+2026-01-27 23:21:20,272 - INFO - Bucket: carbon_scoring
+2026-01-27 23:21:20,273 - INFO - Folder: json_structured_outputs/
+2026-01-27 23:21:20,273 - INFO - Source: esg_outputs
+2026-01-27 23:21:20,273 - INFO - ============================================================
+2026-01-27 23:21:20,320 - INFO - Found 2119 JSON files to upload
+2026-01-27 23:21:21,412 - ERROR - Failed to access bucket: 403 GET https://storage.googleapis.com/storage/v1/b/carbon_scoring?fields=name&prettyPrint=false: etl-gemini-api-726@quiet-mechanic-451307-s9.iam.gserviceaccount.com does not have storage.buckets.get access to the Google Cloud Storage bucket. Permission 'storage.buckets.get' denied on resource (or it may not exist).
+2026-01-27 23:21:23,006 - INFO -    Local copy: esg_outputs\upload_manifest.json
+2026-01-27 23:21:23,006 - INFO - 
+============================================================
+2026-01-27 23:21:23,006 - INFO - VERIFYING UPLOAD
+2026-01-27 23:21:23,006 - INFO - ============================================================
+2026-01-27 23:21:23,971 - INFO - Local files: 2119
+2026-01-27 23:21:23,971 - INFO - GCS files: 0
+2026-01-27 23:21:23,975 - WARNING -    - Thermax_Ltd_esg.json
+2026-01-27 23:21:23,975 - WARNING -    - Kalyani_Steels_Ltd_esg.json
+2026-01-27 23:21:23,976 - WARNING -    - KMC_SPECIALITY_HOSPITALS__INDIA__LTD__esg.json
+2026-01-27 23:21:23,976 - WARNING -    - Home_First_Finance_Company_India_Ltd_esg.json
+2026-01-27 23:21:23,976 - WARNING -    - Krsnaa_Diagnostics_Ltd_esg.json
+2026-01-27 23:21:23,976 - WARNING -    - Surya_Roshni_Ltd_esg.json
+2026-01-27 23:21:23,976 - WARNING -    - AXITA_COTTON_LIMITED_esg.json
+2026-01-27 23:21:23,977 - WARNING -    - NHPC_LTD__esg.json
+2026-01-27 23:21:23,977 - WARNING -    - BALMER_LAWRIE___COMPANY_LIMITED_esg.json
+2026-01-27 23:21:23,978 - WARNING -    - ANUPAM_RASAYAN_INDIA_LIMITED_esg.json

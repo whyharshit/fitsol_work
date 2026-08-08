@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "company": "Sumitomo Chemical India Ltd",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ee0e8bd0-b332-4b69-b622-6272131d6332.pdf",
+    "extracted_at": "2026-01-24 11:21:23.903426"
+  },
+  "data": [
+    {
+      "metric": "Total Energy Consumption",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 554432,
+      "unit": "GJ"
+    },
+    {
+      "metric": "Energy Intensity (Revenue)",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 1.81,
+      "unit": "*10-5 GJ/Rs"
+    },
+    {
+      "metric": "Scope 1 emissions (absolute)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 29556,
+      "unit": "Metric tonnes of CO\u2082 equivalent"
+    },
+    {
+      "metric": "Scope 2 emissions (LB & MB)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 17763,
+      "unit": "Metric tonnes of CO\u2082 equivalent"
+    },
+    {
+      "metric": "Scope 3 emissions (total)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 8483,
+      "unit": "Metric tonnes of CO2 equivalent"
+    },
+    {
+      "metric": "Total Waste Generated",
+      "pillar": "E",
+      "category": "Waste",
+      "value": 14438,
+      "unit": "metric tons"
+    },
+    {
+      "metric": "Total Water Withdrawal",
+      "pillar": "E",
+      "category": "Water",
+      "value": 493536,
+      "unit": "kilolitres"
+    },
+    {
+      "metric": "ZLD Status",
+      "pillar": "E",
+      "category": "Water",
+      "value": "Yes",
+      "unit": "Text"
+    },
+    {
+      "metric": "LTIFR (Employees)",
+      "pillar": "S",
+      "category": "Safety",
+      "value": 0,
+      "unit": ""
+    },
+    {
+      "metric": "LTIFR (Workers)",
+      "pillar": "S",
+      "category": "Safety",
+      "value": 0,
+      "unit": ""
+    }
+  ]
+}

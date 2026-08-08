@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "company": "Pix Transmissions Ltd",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4add3f2a-6e70-4d4b-875d-58e30ca992eb.pdf",
+    "extracted_at": "2026-01-24 11:22:45.078632"
+  },
+  "data": [
+    {
+      "metric": "Total Energy Consumption",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 16822928,
+      "unit": "KWh"
+    },
+    {
+      "metric": "Emissions Intensity (Revenue)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 0.00304,
+      "unit": ""
+    },
+    {
+      "metric": "Total Water Withdrawal",
+      "pillar": "E",
+      "category": "Water",
+      "value": 140987,
+      "unit": "kilolitres"
+    },
+    {
+      "metric": "ZLD Status",
+      "pillar": "E",
+      "category": "Water",
+      "value": "No",
+      "unit": "Text"
+    },
+    {
+      "metric": "Attrition (Employees)",
+      "pillar": "S",
+      "category": "Retention",
+      "value": 13.1,
+      "unit": "%"
+    },
+    {
+      "metric": "Attrition (Workers)",
+      "pillar": "S",
+      "category": "Retention",
+      "value": 5.44,
+      "unit": "%"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+# Environment & secrets
+.env
+.env.*
+credentials/
+*.pem
+*.key
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db

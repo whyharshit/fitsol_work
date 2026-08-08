@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "company": "Alembic Ltd",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c563fbb6-70b8-43c2-86e2-ebe3ffadb3d4.pdf",
+    "extracted_at": "2026-01-24 11:20:12.788650"
+  },
+  "data": [
+    {
+      "metric": "Total Energy Consumption",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 110097.07,
+      "unit": "GJ"
+    },
+    {
+      "metric": "Scope 1 emissions (absolute)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 379,
+      "unit": "MT CO2 equivalent"
+    },
+    {
+      "metric": "Scope 2 emissions (LB & MB)",
+      "pillar": "E",
+      "category": "Emissions",
+      "value": 1290,
+      "unit": "MT CO2 equivalent"
+    },
+    {
+      "metric": "Total Water Withdrawal",
+      "pillar": "E",
+      "category": "Water",
+      "value": 82330,
+      "unit": "kiloliters"
+    },
+    {
+      "metric": "Training Hours",
+      "pillar": "S",
+      "category": "Training",
+      "value": 70.11,
+      "unit": "%"
+    }
+  ]
+}

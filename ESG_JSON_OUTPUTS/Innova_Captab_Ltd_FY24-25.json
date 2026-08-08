@@ -1,0 +1,44 @@
+{
+  "metadata": {
+    "company": "Innova Captab Ltd",
+    "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6736f655-4b93-4b72-ad11-42fca1a72e1b.pdf",
+    "extracted_at": "2026-01-24 11:19:58.727416"
+  },
+  "data": [
+    {
+      "metric": "Total Energy Consumption",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 115250856,
+      "unit": "Mega Joules"
+    },
+    {
+      "metric": "Energy Intensity (Revenue)",
+      "pillar": "E",
+      "category": "Energy",
+      "value": 0.01203,
+      "unit": ""
+    },
+    {
+      "metric": "Total Water Withdrawal",
+      "pillar": "E",
+      "category": "Water",
+      "value": 118387,
+      "unit": "kiloliters"
+    },
+    {
+      "metric": "ZLD Status",
+      "pillar": "E",
+      "category": "Water",
+      "value": "Currently, we have no mechanism for zero liquid discharge. All the manufacturing units has an effluent treatment plant to manage wastewater and produce clean water suitable for reuse in gardening, cooling towers and in washrooms.",
+      "unit": "Text"
+    },
+    {
+      "metric": "LTIFR (Workers)",
+      "pillar": "S",
+      "category": "Safety",
+      "value": 1.8,
+      "unit": "%"
+    }
+  ]
+}

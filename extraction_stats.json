@@ -1,0 +1,120 @@
+{
+  "total_fields": 39,
+  "extracted_fields": 11,
+  "missing_fields": [
+    "environmental_emissions.scope_2_location_based",
+    "environmental_emissions.baseline_year",
+    "environmental_emissions.baseline_boundary",
+    "environmental_targets.emissions_reduction_target_percent",
+    "environmental_targets.target_type",
+    "environmental_targets.target_boundary",
+    "environmental_targets.target_year",
+    "environmental_water.water_withdrawal_total",
+    "environmental_water.water_recycled_percent",
+    "environmental_water.zld_status",
+    "environmental_waste.waste_generated_total",
+    "environmental_compliance.environment_policy",
+    "environmental_compliance.iso_14001",
+    "environmental_compliance.environmental_fines",
+    "social.total_workforce",
+    "social.gender_diversity_percent",
+    "social.attrition_rate",
+    "social.training_hours_per_employee",
+    "social.ltifr",
+    "social.iso_45001",
+    "social.human_rights_policy",
+    "social.csr_spend",
+    "governance.board_independence_percent",
+    "governance.esg_oversight_committee",
+    "governance.esg_linked_remuneration",
+    "governance.anti_corruption_policy",
+    "governance.whistleblower_mechanism",
+    "governance.legal_cases"
+  ],
+  "categories": {
+    "environmental_emissions": {
+      "total": 7,
+      "extracted": 4,
+      "completion_rate": 57.1,
+      "missing": [
+        "scope_2_location_based",
+        "baseline_year",
+        "baseline_boundary"
+      ]
+    },
+    "environmental_targets": {
+      "total": 6,
+      "extracted": 2,
+      "completion_rate": 33.3,
+      "missing": [
+        "emissions_reduction_target_percent",
+        "target_type",
+        "target_boundary",
+        "target_year"
+      ]
+    },
+    "environmental_energy": {
+      "total": 3,
+      "extracted": 3,
+      "completion_rate": 100.0,
+      "missing": []
+    },
+    "environmental_water": {
+      "total": 3,
+      "extracted": 0,
+      "completion_rate": 0.0,
+      "missing": [
+        "water_withdrawal_total",
+        "water_recycled_percent",
+        "zld_status"
+      ]
+    },
+    "environmental_waste": {
+      "total": 3,
+      "extracted": 2,
+      "completion_rate": 66.7,
+      "missing": [
+        "waste_generated_total"
+      ]
+    },
+    "environmental_compliance": {
+      "total": 3,
+      "extracted": 0,
+      "completion_rate": 0.0,
+      "missing": [
+        "environment_policy",
+        "iso_14001",
+        "environmental_fines"
+      ]
+    },
+    "social": {
+      "total": 8,
+      "extracted": 0,
+      "completion_rate": 0.0,
+      "missing": [
+        "total_workforce",
+        "gender_diversity_percent",
+        "attrition_rate",
+        "training_hours_per_employee",
+        "ltifr",
+        "iso_45001",
+        "human_rights_policy",
+        "csr_spend"
+      ]
+    },
+    "governance": {
+      "total": 6,
+      "extracted": 0,
+      "completion_rate": 0.0,
+      "missing": [
+        "board_independence_percent",
+        "esg_oversight_committee",
+        "esg_linked_remuneration",
+        "anti_corruption_policy",
+        "whistleblower_mechanism",
+        "legal_cases"
+      ]
+    }
+  },
+  "overall_completion_rate": 28.2
+}
